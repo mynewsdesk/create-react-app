@@ -1,17 +1,17 @@
 {
-  "name": "create-react-app",
+  "name": "@mynewsdesk/create-react-app",
   "version": "2.1.1",
   "keywords": [
     "react"
   ],
   "description": "Create React apps with no build configuration.",
-  "repository": "facebook/create-react-app",
+  "repository": "mynewsdesk/create-react-app",
   "license": "MIT",
   "engines": {
     "node": ">=4"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/mynewsdesk/create-react-app/issues"
   },
   "files": [
     "index.js",
